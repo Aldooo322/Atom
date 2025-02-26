@@ -1,0 +1,2129 @@
+fileFormatVersion: 2
+guid: c8ba3a2b99cbf1246b43769d0b5352a2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1341
+        width: 14
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba6001d6771734fabbfa98ee8ad375
+      internalID: -672625289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1341
+        width: 7
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9fea6f57be29841acf2c9c23445f3c
+      internalID: -7330498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1341
+        width: 7
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1dff140d6af2b4c83b72c250f410e3
+      internalID: 1647412703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1341
+        width: 7
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009a6c8d3fa03c841bece56e476ff61e
+      internalID: 1764387162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1341
+        width: 7
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2f6b3a41785984892ceb24639f2aa8
+      internalID: -886935886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1341
+        width: 7
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9406d005e12d964bb7dde99e92b2775
+      internalID: -55401368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1341
+        width: 12
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7344555c5a7b1f4e801cc58b31742fc
+      internalID: 1015019576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1341
+        width: 10
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe16fc528cab5d740b5151e7e99dfc45
+      internalID: -1736600627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1341
+        width: 7
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c7ab1cbc8bcd043a916563dc66ef7d
+      internalID: -1046225148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1341
+        width: 8
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecde9cc83acf9d41831a4513540580c
+      internalID: -2113044936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_10
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1345
+        width: 81
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0931bdf9e54e7f46a3ade4fa458b88f
+      internalID: -2062255233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1298
+        width: 102
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6951339a44134254196486c23c395de6
+      internalID: -1835154204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1300
+        width: 78
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d9282f49d248f498494783347ba0f1
+      internalID: -1217585233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1326
+        width: 16
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdde2f011937bf47acf690fa1824d4b
+      internalID: -363423509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1327
+        width: 29
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ed5fcc3460a694b96a00a6894a9bfd
+      internalID: 1580104151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1312
+        width: 9
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6d966efbae9f846b9cdff2f98cef44
+      internalID: -1900899657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1316
+        width: 9
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2323e6cccab379740a7f1d4899310ee3
+      internalID: 615700079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1301
+        width: 9
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3547bd1523d4da241ba9e0a5e79f9a5b
+      internalID: 1260544078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_18
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1305
+        width: 9
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21227a71a312db4886c193b018322f0
+      internalID: -108762672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_19
+      rect:
+        serializedVersion: 2
+        x: 7090
+        y: 1236
+        width: 496
+        height: 80
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457fbbb48b5a0004386849a6030de326
+      internalID: -1523109197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1282
+        width: 24
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56bae703d98b4542af34d019e6622f2
+      internalID: -1803457078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1282
+        width: 42
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8597d712aa67b4da35f8d811b71b0b
+      internalID: -927639224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_22
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1282
+        width: 25
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864dae7f6d68dae4e800ba8e1c6a02ef
+      internalID: -337102807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1282
+        width: 42
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753e7cba12a289c44854b733b0a80d31
+      internalID: 1110505989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1281
+        width: 23
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ffbdc72b96caa48abef273afcf27a5
+      internalID: 1688492581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1281
+        width: 29
+        height: 16
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109f64e443b27344495f3f9d7c0f690d
+      internalID: -1962063366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_26
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1285
+        width: 9
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3a2473502b8664399a7ae5d7ead95f
+      internalID: -399556793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_27
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1285
+        width: 10
+        height: 11
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d84af0a14244e4d871804f2d2f8f84
+      internalID: -1517144774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_28
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1285
+        width: 14
+        height: 13
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914010f5f85863c41ace6c6b02c71b5e
+      internalID: -1443966297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_29
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1285
+        width: 14
+        height: 14
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb2f5932a0dbcc448808a9a110535c1
+      internalID: -695945709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_30
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1285
+        width: 9
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21ddad525115af4b844f47097cee712
+      internalID: 988074826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_31
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1291
+        width: 10
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee478ff30e2cbc49af994f2b484d197
+      internalID: -2038555547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_32
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1289
+        width: 10
+        height: 9
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef92c2a357de0842a9a69ffcce91ff1
+      internalID: 1842099110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_33
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1285
+        width: 7
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1029814315e77074884d248c9661f18d
+      internalID: -690381251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_34
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1262
+        width: 32
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca6673d39ccb64da78e3c0c74c8d15
+      internalID: -83433012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_35
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1248
+        width: 32
+        height: 40
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8478d0c9be1583c43bf0811543c37a5a
+      internalID: 457509744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_36
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1232
+        width: 33
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1c3070149ec544ab8507c9e14445e0
+      internalID: 854475121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1236
+        width: 102
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ae5a25c465eb840b482d509d98123e
+      internalID: -1979433461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1236
+        width: 102
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f3d9784b817c44972c3b0b5ac07be
+      internalID: -347200255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_39
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1271
+        width: 8
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1957a4dc62d634eae5675976a10106
+      internalID: -2063802416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_40
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1272
+        width: 9
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9ae7c9a69cb9e4780f3cdeb5e25144
+      internalID: -2106209845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_41
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1236
+        width: 80
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114d49bceef9d8b43a9b5586f263fbf6
+      internalID: -1997055605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1236
+        width: 81
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0264c322e7d27f64c9a0e73bc7124ab4
+      internalID: 864770926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_43
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1236
+        width: 81
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b5f98aca87914590f5ff622f2a6ac
+      internalID: -1486982906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_44
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 1230
+        width: 17
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb605453031067c449c4825f000bb6ba
+      internalID: -1379469013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_45
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 1231
+        width: 16
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db67edb0efa78e849b466fd47fe3d986
+      internalID: 1408643693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1236
+        width: 79
+        height: 33
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655c774fcfbfb7d4ebbbf4ad1bdfac81
+      internalID: 1319211525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_47
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1236
+        width: 79
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b343ad8ff696740ba2115789195107
+      internalID: -1693413621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 974
+        width: 857
+        height: 256
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e2e13618548cc43bf56baca4987ea0
+      internalID: 1248334928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_49
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 974
+        width: 513
+        height: 256
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bad5b389be53594dbf0d07d6a2c239b
+      internalID: 1744285266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_50
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 974
+        width: 1057
+        height: 256
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab4775a6d487c74796b648ba1f494d6
+      internalID: 769117494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_51
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 750
+        width: 529
+        height: 462
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f51c14b478502a46a4dfce5cbd03c70
+      internalID: -692381892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_52
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 750
+        width: 784
+        height: 475
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6ab28f03cda054cab08b4765cf90a6
+      internalID: -1299386061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_53
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 974
+        width: 545
+        height: 256
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e7f0ddcb6708e4e9f6a8ffe37b5393
+      internalID: -1090696960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_54
+      rect:
+        serializedVersion: 2
+        x: 4798
+        y: 974
+        width: 1441
+        height: 256
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079765c191b9efd458a035f8941cb0cc
+      internalID: -2052219623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_55
+      rect:
+        serializedVersion: 2
+        x: 6662
+        y: 1182
+        width: 1024
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929e9f501367a1c4daf662517afa6687
+      internalID: 683704962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_56
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 750
+        width: 97
+        height: 291
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb19384beb19f1b4580d5bd37f236970
+      internalID: -493393825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_57
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 974
+        width: 81
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f777a2514f3837e478c3e7ddf249aea1
+      internalID: 1175762051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_58
+      rect:
+        serializedVersion: 2
+        x: 4414
+        y: 974
+        width: 80
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eebce19cec1e2e409dab7575d848882
+      internalID: -753268112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_59
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 974
+        width: 240
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ddb54c1f0a604e9cba1b8cecf3801
+      internalID: 367501960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_60
+      rect:
+        serializedVersion: 2
+        x: 6238
+        y: 974
+        width: 1448
+        height: 174
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05d1b38612b1ff4991d1257dbc90e93
+      internalID: -215100143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 716
+        width: 512
+        height: 256
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b999605e74d5745903b09beee506e3
+      internalID: 444218634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_62
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 924
+        width: 16
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfbb44ea3b106844b661a63d3841b9e
+      internalID: -153179971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_63
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 916
+        width: 32
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d4e475e1fcda43b469ad3c460097a
+      internalID: 1016132729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_64
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 944
+        width: 425
+        height: 28
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bd8440922764c449c65a834274983e
+      internalID: -727476513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_65
+      rect:
+        serializedVersion: 2
+        x: 4542
+        y: 908
+        width: 72
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf3ba4717239f64da63c9cc96a0e1fe
+      internalID: -1894740526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_66
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 700
+        width: 220
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6eea0e3bc5e7a45ac67e70ac7555f4
+      internalID: 1770794769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_67
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 394
+        width: 511
+        height: 352
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09a6847ba89c5469cf98c0f5603413
+      internalID: 16549286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_68
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 522
+        width: 204
+        height: 176
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e5a300af134624db2df605c225c187
+      internalID: -595545735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_69
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 635
+        width: 9
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250276df37c9e79408dc7d45d152b087
+      internalID: 710491996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_70
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 642
+        width: 8
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed7b5f370015c9448295b05952147d9
+      internalID: 2028743170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_71
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 642
+        width: 9
+        height: 8
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0972e265ee6bbee4091d301c18e68f34
+      internalID: 2127905855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_72
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 392
+        width: 204
+        height: 128
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f05d0c11c64644ab7a7e921101d28
+      internalID: 1417609551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_73
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 6
+        width: 3073
+        height: 384
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b1a220991db114096d821b82ef72c0
+      internalID: -1090780749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_74
+      rect:
+        serializedVersion: 2
+        x: 7607
+        y: 67
+        width: 4
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d51912b6bf6c7e42a0733ca8c98ba1f
+      internalID: -1906102656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_75
+      rect:
+        serializedVersion: 2
+        x: 7612
+        y: 67
+        width: 32
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276317a79fea6174f85bce7aed891e43
+      internalID: -367540890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_76
+      rect:
+        serializedVersion: 2
+        x: 7647
+        y: 67
+        width: 16
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe12b509142ebe498334bec325b85c7
+      internalID: -837485417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_77
+      rect:
+        serializedVersion: 2
+        x: 7663
+        y: 67
+        width: 15
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1614d7f3d08bdeb40aae106cdb1504d8
+      internalID: -770524675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_78
+      rect:
+        serializedVersion: 2
+        x: 7679
+        y: 67
+        width: 7
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8129278152dc1604682ca022b44fa4e7
+      internalID: -702427976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_79
+      rect:
+        serializedVersion: 2
+        x: 7529
+        y: 58
+        width: 7
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd844f76b5699b244b808b7fd64620c5
+      internalID: -675766050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_80
+      rect:
+        serializedVersion: 2
+        x: 7538
+        y: 58
+        width: 22
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3e458407903348be6c310f5938721
+      internalID: -1899410228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_81
+      rect:
+        serializedVersion: 2
+        x: 7561
+        y: 58
+        width: 14
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd49c9a1bf2b58c41823c3f014721635
+      internalID: 578951390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_82
+      rect:
+        serializedVersion: 2
+        x: 7579
+        y: 58
+        width: 7
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09165138d5f6b31408005d43702273aa
+      internalID: 43058962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_83
+      rect:
+        serializedVersion: 2
+        x: 7589
+        y: 58
+        width: 39
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfa05701e051334ba7ac474454c035a
+      internalID: -509177061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_84
+      rect:
+        serializedVersion: 2
+        x: 7629
+        y: 58
+        width: 7
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0908b0add1167d4db8995bc33c90a2a
+      internalID: 335933110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_85
+      rect:
+        serializedVersion: 2
+        x: 7637
+        y: 58
+        width: 16
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e015b96b524da2243b54064fee9bf91f
+      internalID: -1983638374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_86
+      rect:
+        serializedVersion: 2
+        x: 7654
+        y: 58
+        width: 15
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9704c9f0b9e50f46bc91747aee4048d
+      internalID: -736731525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_87
+      rect:
+        serializedVersion: 2
+        x: 7671
+        y: 58
+        width: 7
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411614ae2e107214eba7b0ab2c101fec
+      internalID: 1764139538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_88
+      rect:
+        serializedVersion: 2
+        x: 7679
+        y: 58
+        width: 7
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160c71f6430f5c54cacfa0c36375e662
+      internalID: -1329042141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_89
+      rect:
+        serializedVersion: 2
+        x: 7507
+        y: 8
+        width: 140
+        height: 38
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226d165f4b72c3b40b1e1e7108209aa0
+      internalID: 1633945294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Mega Man X - Intro Stage_90
+      rect:
+        serializedVersion: 2
+        x: 7649
+        y: 6
+        width: 37
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dff9439f9154f48a49a24d60f2c496
+      internalID: 1532583994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Mega Man X - Intro Stage_0: -672625289
+      SNES - Mega Man X - Intro Stage_1: -7330498
+      SNES - Mega Man X - Intro Stage_10: -2062255233
+      SNES - Mega Man X - Intro Stage_11: -1835154204
+      SNES - Mega Man X - Intro Stage_12: -1217585233
+      SNES - Mega Man X - Intro Stage_13: -363423509
+      SNES - Mega Man X - Intro Stage_14: 1580104151
+      SNES - Mega Man X - Intro Stage_15: -1900899657
+      SNES - Mega Man X - Intro Stage_16: 615700079
+      SNES - Mega Man X - Intro Stage_17: 1260544078
+      SNES - Mega Man X - Intro Stage_18: -108762672
+      SNES - Mega Man X - Intro Stage_19: -1523109197
+      SNES - Mega Man X - Intro Stage_2: 1647412703
+      SNES - Mega Man X - Intro Stage_20: -1803457078
+      SNES - Mega Man X - Intro Stage_21: -927639224
+      SNES - Mega Man X - Intro Stage_22: -337102807
+      SNES - Mega Man X - Intro Stage_23: 1110505989
+      SNES - Mega Man X - Intro Stage_24: 1688492581
+      SNES - Mega Man X - Intro Stage_25: -1962063366
+      SNES - Mega Man X - Intro Stage_26: -399556793
+      SNES - Mega Man X - Intro Stage_27: -1517144774
+      SNES - Mega Man X - Intro Stage_28: -1443966297
+      SNES - Mega Man X - Intro Stage_29: -695945709
+      SNES - Mega Man X - Intro Stage_3: 1764387162
+      SNES - Mega Man X - Intro Stage_30: 988074826
+      SNES - Mega Man X - Intro Stage_31: -2038555547
+      SNES - Mega Man X - Intro Stage_32: 1842099110
+      SNES - Mega Man X - Intro Stage_33: -690381251
+      SNES - Mega Man X - Intro Stage_34: -83433012
+      SNES - Mega Man X - Intro Stage_35: 457509744
+      SNES - Mega Man X - Intro Stage_36: 854475121
+      SNES - Mega Man X - Intro Stage_37: -1979433461
+      SNES - Mega Man X - Intro Stage_38: -347200255
+      SNES - Mega Man X - Intro Stage_39: -2063802416
+      SNES - Mega Man X - Intro Stage_4: -886935886
+      SNES - Mega Man X - Intro Stage_40: -2106209845
+      SNES - Mega Man X - Intro Stage_41: -1997055605
+      SNES - Mega Man X - Intro Stage_42: 864770926
+      SNES - Mega Man X - Intro Stage_43: -1486982906
+      SNES - Mega Man X - Intro Stage_44: -1379469013
+      SNES - Mega Man X - Intro Stage_45: 1408643693
+      SNES - Mega Man X - Intro Stage_46: 1319211525
+      SNES - Mega Man X - Intro Stage_47: -1693413621
+      SNES - Mega Man X - Intro Stage_48: 1248334928
+      SNES - Mega Man X - Intro Stage_49: 1744285266
+      SNES - Mega Man X - Intro Stage_5: -55401368
+      SNES - Mega Man X - Intro Stage_50: 769117494
+      SNES - Mega Man X - Intro Stage_51: -692381892
+      SNES - Mega Man X - Intro Stage_52: -1299386061
+      SNES - Mega Man X - Intro Stage_53: -1090696960
+      SNES - Mega Man X - Intro Stage_54: -2052219623
+      SNES - Mega Man X - Intro Stage_55: 683704962
+      SNES - Mega Man X - Intro Stage_56: -493393825
+      SNES - Mega Man X - Intro Stage_57: 1175762051
+      SNES - Mega Man X - Intro Stage_58: -753268112
+      SNES - Mega Man X - Intro Stage_59: 367501960
+      SNES - Mega Man X - Intro Stage_6: 1015019576
+      SNES - Mega Man X - Intro Stage_60: -215100143
+      SNES - Mega Man X - Intro Stage_61: 444218634
+      SNES - Mega Man X - Intro Stage_62: -153179971
+      SNES - Mega Man X - Intro Stage_63: 1016132729
+      SNES - Mega Man X - Intro Stage_64: -727476513
+      SNES - Mega Man X - Intro Stage_65: -1894740526
+      SNES - Mega Man X - Intro Stage_66: 1770794769
+      SNES - Mega Man X - Intro Stage_67: 16549286
+      SNES - Mega Man X - Intro Stage_68: -595545735
+      SNES - Mega Man X - Intro Stage_69: 710491996
+      SNES - Mega Man X - Intro Stage_7: -1736600627
+      SNES - Mega Man X - Intro Stage_70: 2028743170
+      SNES - Mega Man X - Intro Stage_71: 2127905855
+      SNES - Mega Man X - Intro Stage_72: 1417609551
+      SNES - Mega Man X - Intro Stage_73: -1090780749
+      SNES - Mega Man X - Intro Stage_74: -1906102656
+      SNES - Mega Man X - Intro Stage_75: -367540890
+      SNES - Mega Man X - Intro Stage_76: -837485417
+      SNES - Mega Man X - Intro Stage_77: -770524675
+      SNES - Mega Man X - Intro Stage_78: -702427976
+      SNES - Mega Man X - Intro Stage_79: -675766050
+      SNES - Mega Man X - Intro Stage_8: -1046225148
+      SNES - Mega Man X - Intro Stage_80: -1899410228
+      SNES - Mega Man X - Intro Stage_81: 578951390
+      SNES - Mega Man X - Intro Stage_82: 43058962
+      SNES - Mega Man X - Intro Stage_83: -509177061
+      SNES - Mega Man X - Intro Stage_84: 335933110
+      SNES - Mega Man X - Intro Stage_85: -1983638374
+      SNES - Mega Man X - Intro Stage_86: -736731525
+      SNES - Mega Man X - Intro Stage_87: 1764139538
+      SNES - Mega Man X - Intro Stage_88: -1329042141
+      SNES - Mega Man X - Intro Stage_89: 1633945294
+      SNES - Mega Man X - Intro Stage_9: -2113044936
+      SNES - Mega Man X - Intro Stage_90: 1532583994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

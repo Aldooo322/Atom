@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: da12f52979cd96c48bb6e8bfb7fa15ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 15
+        width: 69
+        height: 113
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134d8e605d3c13143ae3a65b3da1d5ee
+      internalID: 845170684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 15
+        width: 77
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a745e5acc0e651b4996f4b59b446c3d7
+      internalID: 1150221688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 15
+        width: 69
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3400c4d9a7b964e46abe451226ba543d
+      internalID: -1024903503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 15
+        width: 69
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1a0c3028062a544b5a8b1219a7a171
+      internalID: 1264127644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3
+        width: 82
+        height: 119
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bda0906437b3442b0f87294321983c
+      internalID: 898688647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_8
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 4
+        width: 78
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9cb0e15e42eca429005599b63c4382
+      internalID: 1985884290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 4
+        width: 74
+        height: 118
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4688f185ff7494a9d2a91a26eab03e
+      internalID: -854175016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_10
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 15
+        width: 74
+        height: 110
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac487ecc85f37db43a5e80de32237e37
+      internalID: -1665011042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_11
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 15
+        width: 82
+        height: 110
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ae71d591b8c7143b8e313444de2cdd
+      internalID: 416862216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_12
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 15
+        width: 86
+        height: 107
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692e14c21617fcf44b22af37675c2cee
+      internalID: -912518675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_13
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 15
+        width: 85
+        height: 105
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716897c49ac5a884aa9f14d22c4ab118
+      internalID: -525638350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_15
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 15
+        width: 76
+        height: 107
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015737ac7328e9245aebda2bfec72638
+      internalID: -616908567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_16
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 15
+        width: 73
+        height: 110
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8675905cfc56fa438fa93c8d4907db6
+      internalID: 1090076263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Captura de pantalla 2025-02-22 013936 (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 15
+        width: 74
+        height: 110
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61298a39a7cc2c4f9d43d02a0c18b43
+      internalID: 1965718585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Captura de pantalla 2025-02-22 013936 (1)_0: 845170684
+      Captura de pantalla 2025-02-22 013936 (1)_1: 1941888403
+      Captura de pantalla 2025-02-22 013936 (1)_10: -1665011042
+      Captura de pantalla 2025-02-22 013936 (1)_11: 416862216
+      Captura de pantalla 2025-02-22 013936 (1)_12: -912518675
+      Captura de pantalla 2025-02-22 013936 (1)_13: -525638350
+      Captura de pantalla 2025-02-22 013936 (1)_14: 531202033
+      Captura de pantalla 2025-02-22 013936 (1)_15: -616908567
+      Captura de pantalla 2025-02-22 013936 (1)_16: 1090076263
+      Captura de pantalla 2025-02-22 013936 (1)_17: 1965718585
+      Captura de pantalla 2025-02-22 013936 (1)_18: -1924568033
+      Captura de pantalla 2025-02-22 013936 (1)_19: 1821514103
+      Captura de pantalla 2025-02-22 013936 (1)_2: 1150221688
+      Captura de pantalla 2025-02-22 013936 (1)_20: 1830991858
+      Captura de pantalla 2025-02-22 013936 (1)_21: 1207360845
+      Captura de pantalla 2025-02-22 013936 (1)_22: -1969279679
+      Captura de pantalla 2025-02-22 013936 (1)_23: -797054843
+      Captura de pantalla 2025-02-22 013936 (1)_24: 1079736676
+      Captura de pantalla 2025-02-22 013936 (1)_25: 181478002
+      Captura de pantalla 2025-02-22 013936 (1)_26: 256395910
+      Captura de pantalla 2025-02-22 013936 (1)_27: -732037446
+      Captura de pantalla 2025-02-22 013936 (1)_3: 1879583258
+      Captura de pantalla 2025-02-22 013936 (1)_4: -1024903503
+      Captura de pantalla 2025-02-22 013936 (1)_5: 443526314
+      Captura de pantalla 2025-02-22 013936 (1)_6: 1264127644
+      Captura de pantalla 2025-02-22 013936 (1)_7: 898688647
+      Captura de pantalla 2025-02-22 013936 (1)_8: 1985884290
+      Captura de pantalla 2025-02-22 013936 (1)_9: -854175016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
